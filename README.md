@@ -1,4 +1,4 @@
-###👋 Hey there! I’m Bharath!
+👋 Hey there! I’m Bharath!
 Welcome to my GitHub portfolio, where I transform data into stories and insights! I’m a passionate Data Analyst Graduate Assistant at Wichita State University, currently pursuing a Master of Business Analytics. My mission is to turn raw data into actionable insights that drive smart decisions.
 
 🚀 What I Do
