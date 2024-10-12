@@ -16,8 +16,8 @@ I enjoy learning new technologies and applying them to real-world problems. Whet
 ## 📂 Featured Projects
 Check out some of my top projects:
 
-- **Olympic Games Data Analysis**: A deep dive into 7 years of Olympic Games data, visualized with **Power BI**. [Link to Project](https://drive.google.com/file/d/1hJLGHn2XCW0kNvBHf5jnXupt0EZQFUaF/view?usp=drivesdk)
-- **DXC Technology Data Dashboards**: Developed insightful, dynamic dashboards using **Power BI** to deliver actionable insights. *(Coming Soon!)*
+- **Power BI Sales Analysis Dashboard**: A detailed look into the sales of a company that sells bicycles, helmets, bags, and lights, visualized with **Power BI**. [Link to Repository](https://github.com/BharathRasamadugu/Power-BI-Sales-Analysis-Dashboard)
+- **Web Scraping**: "Stay tuned for an exciting project on web scraping. *(Coming Soon!)*
 - **Python Data Automation**: Created automated scripts to streamline data cleaning processes. *(In Progress!)*
 
 ## 🎓 Certifications
