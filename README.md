@@ -17,6 +17,7 @@ I enjoy learning new technologies and applying them to real-world problems. Whet
 Check out some of my top projects:
 
 - **Power BI Sales Analysis Dashboard**: A detailed look into the sales of a company that sells bicycles, helmets, bags, and lights, visualized with **Power BI**. [Link to Repository](https://github.com/BharathRasamadugu/Power-BI-Sales-Analysis-Dashboard)
+- **Descriptive Analytics - Customer Churn in Telecom**: This notebook analyzes the Customer Churn in Telecom dataset using descriptive analytics to explore patterns, clean data, handle missing values, and visualize customer behavior using **Google Colab** [Link to Repository](https://github.com/BharathRasamadugu/Descriptive-Analytics-Customer-Churn-in-Telecommunication-)
 - **Web Scraping**: "Stay tuned for an exciting project on web scraping. *(Coming Soon!)*
 - **Python Data Automation**: Created automated scripts to streamline data cleaning processes. *(In Progress!)*
 
